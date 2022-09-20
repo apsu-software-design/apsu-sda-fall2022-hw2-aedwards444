@@ -9,6 +9,7 @@ import {Organizations} from './organizations';
 export class GatheringManager {
 
     constructor() {
+
     }
 
     addMember(name: string, email: string) {
